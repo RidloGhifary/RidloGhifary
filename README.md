@@ -22,12 +22,35 @@
 🌱 I’m currently learning **NextJS, react-query, php** - 👯 I’m looking to
 collaborate on [fakeX](https://github.com/RidloGhifary/fakeX) - 👨‍💻 All of my
 projects are available at
-[https://github.com/RidloGhifary/](https://github.com/RidloGhifary/) - 📝 I
+[Github](https://github.com/RidloGhifary/) - 📝 I
 regularly write articles on
-[https://medium.com/@ridloghfry](https://medium.com/@ridloghfry) - 💬 Ask me
+[Medium](https://medium.com/@ridloghfry) - 💬 Ask me
 about **react, expressJS** - 📫 How to reach me **ridloghfry@gmail.com** - ⚡
-Fun fact **I could m** ### Blogs posts
+Fun fact **I could do mewing**
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<ol>
+  <li>
+    <a href="https://medium.com/dev-genius/how-i-build-crud-rest-api-with-mysql-express-basic-part-1-7d5ea166181f" target="_blank">  
+      How-i-build-crud-rest-api-with-mysql-express-basic-part-1
+    </a>
+  </li>
+  <li>
+    <a href="https://medium.com/@ridloghfry/how-i-build-crud-rest-api-with-mysql-express-basic-part-2-24eb35a5ad01" target="_blank">  
+      How-i-build-crud-rest-api-with-mysql-express-basic-part-2
+    </a>
+  </li>
+  <li>
+    <a href="https://medium.com/dev-genius/how-i-build-crud-rest-api-with-mysql-express-basic-part-3-cccffc850196" target="_blank">  
+      How-i-build-crud-rest-api-with-mysql-express-basic-part-3
+    </a>
+  </li>
+  <li>
+    <a href="https://medium.com/dev-genius/put-vs-patch-rest-api-nodejs-expressjs-86bd96cc5e2b" target="_blank">  
+      Put-vs-patch-rest-api-nodejs-expressjs
+    </a>
+  </li>
+</ol>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
