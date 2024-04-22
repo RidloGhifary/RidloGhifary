@@ -144,7 +144,7 @@ Fun fact **I could m** ### Blogs posts
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      src="https://www.datocms-assets.com/98835/1684410508-image-7.png"
       alt="nextjs"
       width="40"
       height="40" />
@@ -200,9 +200,9 @@ Fun fact **I could m** ### Blogs posts
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"
       alt="bootstrap"
-      width="40"
+      width="50"
       height="40" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
