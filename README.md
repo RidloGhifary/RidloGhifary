@@ -46,6 +46,11 @@ Fun fact **I could do mewing**
     </a>
   </li>
   <li>
+    <a href="https://medium.com/dev-genius/how-i-design-database-for-social-media-mini-project-using-mongo-db-6282cfee48a6" target="_blank">  
+      How-i-design-database-for-social-media-mini-project-using-mongodb
+    </a>
+  </li>
+  <li>
     <a href="https://medium.com/dev-genius/put-vs-patch-rest-api-nodejs-expressjs-86bd96cc5e2b" target="_blank">  
       Put-vs-patch-rest-api-nodejs-expressjs
     </a>
