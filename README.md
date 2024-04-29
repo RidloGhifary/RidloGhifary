@@ -55,6 +55,11 @@ Fun fact **I could do mewing**
       Put-vs-patch-rest-api-nodejs-expressjs
     </a>
   </li>
+  <li>
+    <a href="https://medium.com/@ridloghfry/unearthing-hidden-gems-lesser-known-html-tags-2e3ce659d02a" target="_blank">  
+      Unearthing-hidden-gems-lesser-known-html-tags
+    </a>
+  </li>
 </ol>
 <!-- BLOG-POST-LIST:END -->
 
