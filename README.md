@@ -19,7 +19,7 @@
 </p>
 
 - 🔭 I’m currently working on [fakeX](https://github.com/RidloGhifary/fakeX) -
-🌱 I’m currently learning **NextJS, react-query, php** - 👯 I’m looking to
+🌱 I’m currently learning **NextJS, php** - 👯 I’m looking to
 collaborate on [fakeX](https://github.com/RidloGhifary/fakeX) - 👨‍💻 All of my
 projects are available at
 [Github](https://github.com/RidloGhifary/) - 📝 I
