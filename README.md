@@ -65,6 +65,16 @@ Fun fact **I could do mewing**
       Unveiling-hidden-treasures-lesser-known-css-properties-and-techniques
     </a>
   </li>
+  <li>
+    <a href="https://medium.com/dev-genius/the-problems-with-tailwindcss-ae5446c52840" target="_blank">  
+      The-problems-with-tailwindcss
+    </a>
+  </li>
+  <li>
+    <a href="https://medium.com/@ridloghfry/javascript-performance-showdown-built-in-methods-vs-diy-solutions-29f309879b9d" target="_blank">  
+      Javascript-performance-showdown-built-in-methods-vs-diy-solutions
+    </a>
+  </li>
 </ol>
 <!-- BLOG-POST-LIST:END -->
 
