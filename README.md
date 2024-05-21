@@ -75,6 +75,16 @@ Fun fact **I could do mewing**
       Javascript-performance-showdown-built-in-methods-vs-diy-solutions
     </a>
   </li>
+  <li>
+    <a href="https://medium.com/dev-genius/from-chaos-to-order-mastering-auto-sorting-with-prettier-and-tailwind-296649145ea4" target="_blank">  
+      From-chaos-to-order-mastering-auto-sorting-with-prettier-and-tailwind
+    </a>
+  </li>
+  <li>
+    <a href="https://medium.com/@ridloghfry/how-to-install-pnpm-and-why-use-it-over-npm-bea9478c0d5b" target="_blank">  
+      How-to-install-pnpm-and-why-use-it-over-npm
+    </a>
+  </li>
 </ol>
 <!-- BLOG-POST-LIST:END -->
 
