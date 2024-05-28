@@ -28,67 +28,6 @@ regularly write articles on
 about **react, expressJS** - 📫 How to reach me **ridloghfry@gmail.com** - ⚡
 Fun fact **I could do mewing**
 
-<!-- BLOG-POST-LIST:START -->
-## 📚 My Articles
-
-1. [**How I Build CRUD REST API with MySQL & Express - Basic Part 1**](https://medium.com/dev-genius/how-i-build-crud-rest-api-with-mysql-express-basic-part-1-7d5ea166181f)  
-   *Platform:* Medium  
-   *Date:* Feb 7, 2024
-
-2. [**How I Build CRUD REST API with MySQL & Express - Basic Part 2**](https://medium.com/@ridloghfry/how-i-build-crud-rest-api-with-mysql-express-basic-part-2-24eb35a5ad01)  
-   *Platform:* Medium  
-   *Date:* Feb 8, 2024
-
-3. [**How I Build CRUD REST API with MySQL & Express - Basic Part 3**](https://medium.com/dev-genius/how-i-build-crud-rest-api-with-mysql-express-basic-part-3-cccffc850196)  
-   *Platform:* Medium  
-   *Date:*  Feb 14, 2024
-
-4. [**How I Design Database for Social Media Mini Project Using MongoDB**](https://medium.com/dev-genius/how-i-design-database-for-social-media-mini-project-using-mongo-db-6282cfee48a6)  
-   *Platform:* Medium  
-   *Date:* Apr 23, 2024
-
-5. [**PUT vs PATCH REST API in Node.js & Express.js**](https://medium.com/dev-genius/put-vs-patch-rest-api-nodejs-expressjs-86bd96cc5e2b)  
-   *Platform:* Medium  
-   *Date:* Mar 5, 2024
-
-6. [**Unearthing Hidden Gems: Lesser-Known HTML Tags**](https://medium.com/@ridloghfry/unearthing-hidden-gems-lesser-known-html-tags-2e3ce659d02a)  
-   *Platform:* Medium  
-   *Date:* June 1, 2024
-
-7. [**Unveiling Hidden Treasures: Lesser-Known CSS Properties and Techniques**](https://medium.com/dev-genius/unveiling-hidden-treasures-lesser-known-css-properties-and-techniques-1d92716a5ce2)  
-   *Platform:* Medium  
-   *Date:* Apr 29, 2024
-
-8. [**The Problems with TailwindCSS**](https://medium.com/dev-genius/the-problems-with-tailwindcss-ae5446c52840)  
-   *Platform:* Medium  
-   *Date:* May 7, 2024
-
-9. [**JavaScript Performance Showdown: Built-In Methods vs DIY Solutions**](https://medium.com/@ridloghfry/javascript-performance-showdown-built-in-methods-vs-diy-solutions-29f309879b9d)  
-   *Platform:* Medium  
-   *Date:* May 11, 2024
-
-10. [**From Chaos to Order: Mastering Auto-Sorting with Prettier and Tailwind**](https://medium.com/dev-genius/from-chaos-to-order-mastering-auto-sorting-with-prettier-and-tailwind-296649145ea4)  
-    *Platform:* Medium  
-    *Date:* May 20, 2024
-
-11. [**How to Install pnpm and Why Use It Over npm**](https://medium.com/@ridloghfry/how-to-install-pnpm-and-why-use-it-over-npm-bea9478c0d5b)  
-    *Platform:* Medium  
-    *Date:*  May 19, 2024
-
-12. [**React Traditional Import is Too Slow, Do This Instead!!!**](https://medium.com/dev-genius/react-traditional-import-is-too-slow-do-this-instead-ac8c1416dcef)  
-    *Platform:* Medium  
-    *Date:*  May 2, 2024
-
-14. [**The Future of Web Development: Trends to Watch in 2024**](https://medium.com/@ridloghfry/the-future-of-web-development-trends-to-watch-in-2024-fe1b3d5d6759)  
-    *Platform:* Medium  
-    *Date:* May 21, 2024
-
-15. [**When Programmers Get Too Bored for Coding: Causes and Solutions**](https://medium.com/@ridloghfry/when-programmers-get-too-bored-for-coding-causes-and-solutions-cad3b1c02fc2)  
-    *Platform:* Medium  
-    *Date:* May 21, 2024
-
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/ridlo-ghifary" target="blank"
