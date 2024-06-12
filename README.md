@@ -24,11 +24,9 @@ alt="ridloghifary" />
 </div>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"
-><img
-src="https://github-profile-trophy.vercel.app/?username=ridloghifary"
-alt="ridloghifary"
-/></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ridloghifary" alt="ridloghifary" />
+</a>
 </p>
 
 ## ✍️ Random Dev Quote
