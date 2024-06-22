@@ -34,9 +34,3 @@ alt="ridloghifary" />
   
 <img style="width: 100%; height:100%; object-fit=fill" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
-
-## 😂 Random Dev Meme
-<div align="center">
-  
-<img align="center" src='https://memer-new.vercel.app/' style="height: 400px;"/>
-</div>
