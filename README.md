@@ -32,5 +32,5 @@ alt="ridloghifary" />
 ## ✍️ Random Dev Quote
 <div align="center">
   
-<img style="width: 100%; height:100%; object-fit=fill" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
