@@ -16,6 +16,7 @@ alt="ridloghifary" />
 # 💻 Tech Stack:
 <br clear="both">
 <div align="left">
+  <img align="right" height="250" src="https://img1.picmix.com/output/stamp/normal/9/9/1/5/1585199_1d7b0.gif"  />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
@@ -104,4 +105,10 @@ alt="ridloghifary" />
 # 🎵 Spotify Recent Played
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31peu7i5hf6sjrb5xvssclhai5ly&unique=true&width=1000&count=3" alt="spotify"/>
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=ridloghfry&limit=4&theme=dark" alt="Layout with last medium posts"  />
 </div>
