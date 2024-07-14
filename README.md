@@ -14,11 +14,6 @@ alt="ridloghifary" />
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rdllghifary_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ridlo-ghifary) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ridloghfry) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCGZAqA5h1BLf-wF5FdaoijA) 
 
 # 💻 Tech Stack:
-
-
-
-###
-
 <br clear="both">
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
@@ -82,44 +77,26 @@ alt="ridloghifary" />
   <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
 </div>
 
-###
-
-<div align="left">
-</div>
-
-###
-
-###
 # 📊 GitHub Stats:
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RidloGhifary&theme=dark&hide_border=false&includeallcommits=true&countprivate=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RidloGhifary&theme=dark&hide_border=false" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=RidloGhifary&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidloGhifary&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
-
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ridloghifary" alt="ridloghifary" />
-</a>
-</p>
-
 <br clear="both">
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RidloGhifary&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RidloGhifary&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=RidloGhifary&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=RidloGhifary&theme=flat&column=-1&row=1&margin-w=5&margin-h=5&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RidloGhifary&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-## ✍️ Random Dev Quote
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/RidloGhifary/RidloGhifary/output/snake.svg" alt="Snake animation" />
+
+###
+
+# ✍️ Random Dev Quote
 <div align="center">
-  
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
-
-<div>
-<img src="https://raw.githubusercontent.com/RidloGhifary/RidloGhifary/output/snake.svg" alt="Snake animation" />
-</div>
-
-<br clear="both">
