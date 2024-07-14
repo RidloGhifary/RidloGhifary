@@ -106,9 +106,3 @@ alt="ridloghifary" />
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31peu7i5hf6sjrb5xvssclhai5ly&unique=true&width=1000&count=3" alt="spotify"/>
 </div>
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=ridloghfry&limit=4&theme=dark" alt="Layout with last medium posts"  />
-</div>
