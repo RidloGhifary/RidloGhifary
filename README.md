@@ -100,3 +100,8 @@ alt="ridloghifary" />
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
+
+# 🎵 Spotify Recent Played
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31peu7i5hf6sjrb5xvssclhai5ly&unique=true&width=1000&count=3" alt="spotify"/>
+</div>
