@@ -34,7 +34,7 @@ alt="ridloghifary" />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo"  />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="50" alt="npm logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
   <img width="5" />
