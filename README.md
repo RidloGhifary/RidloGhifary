@@ -31,6 +31,8 @@ alt="ridloghifary" />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="5" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwind logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
