@@ -61,6 +61,8 @@ alt="ridloghifary" />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
   <img width="3" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="50" alt="supabase logo"  />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
