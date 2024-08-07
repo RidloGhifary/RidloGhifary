@@ -45,13 +45,7 @@ alt="ridloghifary" />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="powershell logo"  />
-  <img width="3" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <img width="3" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="50" alt="npm logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
   <img width="3" />
@@ -72,14 +66,6 @@ alt="ridloghifary" />
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="netlify logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=replit" height="50" alt="replit logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="arduino logo"  />
   <img width="3" />
