@@ -43,8 +43,6 @@ alt="ridloghifary" />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
-  <img width="3" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
