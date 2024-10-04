@@ -18,46 +18,30 @@ alt="ridloghifary" />
 
 <div align="left">
   <img align="right" height="250" src="https://img1.picmix.com/output/stamp/normal/9/9/1/5/1585199_1d7b0.gif"  />
-  
+
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="50" alt="styledcomponents logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
-  <img width="3" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
-  <img width="3" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="50" alt="supabase logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo"  />
   <img width="3" />
@@ -65,13 +49,7 @@ alt="ridloghifary" />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="arduino logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
 </div>
 
 ###
