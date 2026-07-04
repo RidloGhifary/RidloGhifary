@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ridlo Achmad Ghifary</h1>
+
 <h3 align="center">
 A passionate bringing Frontend and Backend Together to Build Amazing
 Experiences
@@ -12,6 +13,15 @@ alt="ridloghifary" />
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rdllghifary_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ridlo-ghifary) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ridloghfry) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCGZAqA5h1BLf-wF5FdaoijA) 
+
+<div align="center">
+  <a href="https://commit-history.com/RidloGhifary">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/RidloGhifary?theme=dark" />
+      <img alt="RidloGhifary's commit history" src="https://commit-history.com/embed/RidloGhifary" />
+    </picture>
+  </a>
+</div>
 
 # 💻 Tech Stack:
 <br clear="both">
@@ -59,26 +69,8 @@ alt="ridloghifary" />
 # 📊 GitHub Stats:
 <br clear="both">
 
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RidloGhifary&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=RidloGhifary&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
-  <img src="https://streak-stats.demolab.com?user=RidloGhifary&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="500" alt="streak graph"  />
-  <!-- <img src="https://github-profile-trophy.vercel.app?username=RidloGhifary&theme=flat&column=-1&row=1&margin-w=5&margin-h=5&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  /> -->
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=RidloGhifary&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
-</div>
-
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/RidloGhifary/RidloGhifary/output/snake.svg" alt="Snake animation" />
 
-###
-
-# ✍️ Random Dev Quote
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</div>
 
 # 🎵 Spotify Recent Played
 <div align="center">
